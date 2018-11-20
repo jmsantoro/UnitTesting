@@ -1,0 +1,18 @@
+﻿[
+  {
+    "gallons": 10,
+    "mpg": 28,
+    "range": 280
+  },
+  {
+    "gallons": 12,
+    "mpg": 30,
+    "range": 360
+  },
+  {
+    "gallons": 8,
+    "mpg": 25,
+    "range": 200
+  }
+
+]
